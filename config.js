@@ -87,6 +87,7 @@ global.packname = 'By Iyann'
 global.author = 'Tohka Yatogami'
 global.wm = '© Tohka Yatogami' //UBAH JADI NAMAMU
 global.botwm = '© Tohka Yatogami' //UBAH JADI NAMAMU
+global.image = 'https://telegra.ph/file/8498b727d19499438c5c1.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
