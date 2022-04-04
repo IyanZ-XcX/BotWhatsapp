@@ -1,10 +1,10 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `SC VIA GITHUB JNGN LUPA FOLLOW
 Atau Bisa Lewat Link Dibawah Ini :
-https://github.com/Kangsad01
+https://github.com/IyanZ-XcX/BotWhatsapp
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*YANG FOLLOW DPT SKIN*', 'status@broadcast') 
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Gak Kasih Star:v*', 'status@broadcast') 
 }
 handler.help = ['github']
 handler.tags = ['info']
