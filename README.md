@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://telegra.ph/file/8498b727d19499438c5c1.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Stikerinbotnew</h1>
+<h1 align="center">Tohka Yatogami</h1>
 
 ## Recode BY : [`Iyann Ganteng`](https://github.com/IyanZ-XcX)
 
@@ -148,5 +148,5 @@ conn.logger.level = 'debug'
 
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kangsad01](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01) | [![Iyann](https://github.com/IyanZ-XcX.png?size=100)](https://github.com/IyanZ-XcX)
 ----|----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kangsad01](https://github.com/Kangsad01) | [Iyann](https://github.com/IyanZ-XcX)
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kangsad01](https://github.com/Kangsad01) | [Iyann Ganz](https://github.com/IyanZ-XcX)
  Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 | Penulis ulang ke-3
