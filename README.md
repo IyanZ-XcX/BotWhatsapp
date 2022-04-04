@@ -148,5 +148,5 @@ conn.logger.level = 'debug'
 
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kangsad01](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01) | [![Iyann](https://github.com/IyanZ-XcX.png?size=100)](https://github.com/IyanZ-XcX)
 ----|----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kangsad01](https://github.com/Kangsad01) | [Iyann Ganz](https://github.com/IyanZ-XcX)
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kangsad01](https://github.com/Kangsad01) | [IyannGanz](https://github.com/IyanZ-XcX)
  Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 | Penulis ulang ke-3
