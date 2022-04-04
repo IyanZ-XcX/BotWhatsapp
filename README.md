@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://i.ibb.co/jr9Nh6Q/Thumb.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/8498b727d19499438c5c1.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Stikerinbotnew</h1>
 
@@ -8,19 +8,19 @@
 
 ## FOR DEPLOY HEROKU USER
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/Stikerinbotnew)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IyanZ-XcX/BotWhatsapp)
 
 ## FOR DEPLOY RAILWAY USER
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKangsad01%2FStikerinbotnew)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FIyanZ-XcX%2FBotWhatsapp)
 
 ## FOR DEPLOY REPLIT USER
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Kangsad01/Stikerinbotnew)
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/IyanZ-XcX/BotWhatsapp)
 
 ## GRUP WHATSAPP
 
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GVwpKf83s42D1CnIfDW19G)
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BET5aPmPiMAJ1LWPPaSTxa)
 
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
@@ -31,8 +31,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Kangsad01/Stikerinbotnew
-cd Stikerinbotnew
+git clone https://github.com/IyanZ-XcX/BotWhatsapp
+cd BotWhatsapp
 npm i
 npm update
 node .
@@ -43,7 +43,7 @@ node .
 ## UNTUK PENGGUNA TERMUX
 ```bash
 termux-setup-storage
-git clone https://github.com/Kangsad01/Stikerinbotnew --branch termux
+git clone https://github.com/IyanZ-XcX/BotWhatsapp --branch termux
 bash install.sh
 npm install -g npm@6.14.14
 npm i @adiwajshing/baileys@latest
@@ -148,5 +148,5 @@ conn.logger.level = 'debug'
 
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kangsad01](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01)
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kangsad01](https://github.com/Kangsad01)
- Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kangsad01](https://github.com/Kangsad01) | [Iyann](https://github.com/IyanZ-XcX)
+ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 | Penulis ulang ke-3
