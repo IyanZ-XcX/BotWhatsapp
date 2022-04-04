@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Stikerinbotnew</h1>
 
-## Recode BY : [`The.sad.boy01`](https://github.com/Kangsad01)
+## Recode BY : [`Iyann Ganteng`](https://github.com/IyanZ-XcX)
 
 
 ## FOR DEPLOY HEROKU USER
