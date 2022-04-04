@@ -1,7 +1,7 @@
 {
-  "name": "Stikerinbotnew",
+  "name": "Iyann Project",
   "version": "3.17.19",
-  "description": "WhatsApp Bot Ringan",
+  "description": "Ea",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kangsad01/Stikerinbotnew.git"
+    "url": "git+https://github.com/IyanZ-XcX/BotWhatsapp.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
   "author": "Ariffb",
   "bugs": {
-    "url": "https://github.com/Kangsad01/Stikerinbotnew/issues"
+    "url": "https://github.com/IyanZ-XcX/BotWhatsapp/issues"
   },
-  "homepage": "https://github.com/Kangsad01/Stikerinbotnew",
+  "homepage": "https://github.com/IyanZ-XcX/BotWhatsapp",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "awesome-phonenumber": "^2.54.0",
